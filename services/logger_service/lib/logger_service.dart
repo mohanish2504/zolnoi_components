@@ -23,6 +23,6 @@ class DebugLogger {
       _logger.e(message, error = error, stackTrace = stackTrace);
 
   void logI(message, [Object? error, StackTrace? stackTrace]) =>
-      _logger.e(message, error = error, stackTrace = stackTrace);
+      _logger.i(message, error = error, stackTrace = stackTrace);
 
 }
