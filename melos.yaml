@@ -1,5 +1,9 @@
 name: zolnoi_componenets
 
+command:
+  version:
+    updateGitTagRefs: true # defaults to false
+
 packages:
   - components.services/**
   - '*'
