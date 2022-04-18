@@ -5,5 +5,5 @@ command:
     updateGitTagRefs: true # defaults to false
 
 packages:
-  - components.services/**
+  - services/**
   - '*'
