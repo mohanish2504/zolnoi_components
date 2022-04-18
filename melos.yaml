@@ -1,0 +1,5 @@
+name: zolnoi_componenets
+
+packages:
+  - components.services/**
+  - '*'
